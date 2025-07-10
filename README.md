@@ -17,6 +17,7 @@
 ![Light Mode](https://img.shields.io/badge/Light--Mode-Available-fff7ed?style=for-the-badge&logo=sun&logoColor=ff9800)
 [![Google Lighthouse](https://img.shields.io/badge/Lighthouse-Audit-00B0FF?style=for-the-badge&logo=lighthouse&logoColor=white)](./assets/downloads/lighthouse-performance-report.pdf)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b235479b-42c5-4fd7-a9e2-aae6a1ec21d7/deploy-status)](https://fylo-data-storage-component-fm-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%204-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.frontend-mentor-fylo-data-storage-component&left_text=repo%20views)
@@ -92,7 +93,7 @@ The layout is mobile-first, fully responsive, and was built using semantic HTML,
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](LINK)
+Or you can check out the 👉 [live website here](https://fylo-data-storage-component-fm-jiro.netlify.app/)
 
 ---
 
@@ -109,10 +110,3 @@ Created by **Elmar Chavez**
 🗓️ Month/Year: **July 2025**
 
 📚 Journey: **4<sup>th</sup>** month of learning _frontend web development_.
-
-<!--
-
-FRONTEND MENTOR TAGS:
-html css vscode git github netlify 4th-month frontend-mentor project perfectpixel lighthouse theme-toggle
-
--->
