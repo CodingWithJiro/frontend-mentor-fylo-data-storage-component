@@ -1,4 +1,4 @@
-# 💻 Fylo Data Storage Component
+# Fylo Data Storage Component
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +22,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%204-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.frontend-mentor-fylo-data-storage-component&left_text=repo%20views)
 
-## ℹ️ A Responsive Data Storage Component Page for Fylo Company
+## A Responsive Data Storage Component Page for Fylo Company
 
 | _Mobile Preview (375x812)_                                   | _Desktop Preview (1440x960)_                                    |
 | ------------------------------------------------------------ | --------------------------------------------------------------- |
@@ -31,11 +31,11 @@
 
 A clean, modern, and fully responsive component showcasing Fylo's storage usage interface. The design emphasizes clarity and accessibility, featuring both a dark and light theme toggle for user preference.
 
-Created as part of the building challenges from [Frontend Mentor](https://www.frontendmentor.io/).
+Created as part of the building challenges from **[Frontend Mentor](https://www.frontendmentor.io/)**.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project replicates the Fylo Data Storage Component challenge from Frontend Mentor. It displays a mock interface showing available storage with a progress bar, tooltip, and interactive elements like hover states and a theme toggle.
 
@@ -43,7 +43,7 @@ The layout is mobile-first, fully responsive, and was built using semantic HTML,
 
 ---
 
-## ✨ Features
+## Features
 
 - Fully responsive layout with mobile-first design
 - Light/Dark theme toggle with `localStorage` persistence
@@ -52,11 +52,11 @@ The layout is mobile-first, fully responsive, and was built using semantic HTML,
 - Custom SVG filter and transitions
 - Accessible structure with `:focus-visible` and screen reader utility
 - Google Lighthouse performance tested
-- Pixel-perfect build using [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonecod/dkaagdgjmgdmbnecmcefdhjekcoceebi) Chrome extension
+- Pixel-perfect build using **[PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonecod/dkaagdgjmgdmbnecmcefdhjekcoceebi)** Chrome extension
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - Structuring semantic HTML with accessible focus states and ARIA consideration
 - Advanced use of `::after` borders for tooltip pointers
@@ -66,7 +66,7 @@ The layout is mobile-first, fully responsive, and was built using semantic HTML,
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -77,36 +77,36 @@ The layout is mobile-first, fully responsive, and was built using semantic HTML,
 
 ---
 
-## 🎨 Design Reference & Tools
+## Design Reference & Tools
 
 - JPG design image
 - PerfectPixel
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://fylo-data-storage-component-fm-jiro.netlify.app/)
-
----
-
-## 📊 Performance Report
-
-A **Google Lighthouse** audit was conducted on the final version of this project. You can view the full report [here](./assets/downloads/lighthouse-performance-report.pdf).
+Or you can check out the **[live website here](https://fylo-data-storage-component-fm-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Performance Report
+
+A **Google Lighthouse** audit was conducted on the final version of this project. You can view the **[full report here](./assets/downloads/lighthouse-performance-report.pdf)**.
+
+---
+
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **July 2025**
+Month/Year: **July 2025**
 
-📚 Journey: **4<sup>th</sup>** month of learning _frontend web development_.
+Journey: **4<sup>th</sup>** month of learning _frontend web development_.
